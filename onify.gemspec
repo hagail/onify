@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Hagai Levin"]
   s.email       = 'hagai.levin@gmail.com'
   s.files       = ["lib/onify.rb"]
-  s.homepage    = 'http://rubygems.org/gems/onify'
+  s.homepage    = 'https://github.com/hagail/onify'
   s.license     = 'MIT'
 end
