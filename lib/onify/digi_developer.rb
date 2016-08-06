@@ -1,5 +1,5 @@
-class Onify::DigiDeveloper
-  attr_accessor name
+class DigiDeveloper
+  attr_accessor :name
 
   def initialize(name)
     @name = name

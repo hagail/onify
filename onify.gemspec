@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'onify'
-  s.version     = '0.1.0'
+  s.version     = '0.2.0'
   s.date        = '2016-08-06'
   s.summary     = "Onify your life"
   s.description = "Onify allows you to add 'on' to everyone's name, which is awesome!"
