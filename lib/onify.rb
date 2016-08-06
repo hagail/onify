@@ -1,5 +1,2 @@
-class String
-  def to_on
-    self + 'on'
-  end
-end
+require 'onify/string.rb'
+require 'onify/digi_developer.rb'
